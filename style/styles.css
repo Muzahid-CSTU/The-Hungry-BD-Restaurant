@@ -1,0 +1,121 @@
+#header{
+    background-color: cornflowerblue;
+    background-image: url(../Media/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.menuH{
+    color: gold;
+    background-color: cornflowerblue;
+    background-image: url(../Media/menubg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+.menuH h1{
+    font-size: 5rem;
+    padding: 75px;
+}
+#header h1{
+    text-align: center;
+    font-size: 3rem;
+}
+#header h3{
+    text-align: center;
+    font-size: 2rem;
+}
+#bestfood{
+    background-color: rgb(216, 246, 236);
+}
+.about{
+    background-color: rgb(216, 246, 236);
+    font-size: 1.3rem;
+}
+.about h1{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.p1 {
+    display: flex;
+    background-color: aqua;
+    padding: 20px 20px 10px 20px;
+
+}
+.b1{
+    display: flex;
+    background-color: beige;
+    padding: 20px 20px 10px 20px;
+}
+.p1 p{
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+.b1 p{
+    font-size: 1.5rem;
+    text-align: justify;
+}
+.pd1 h4{
+    text-align: center;
+    font-size: 2rem;
+}
+.pd1{
+    flex: 1;
+    padding: 5px;
+}
+.pdi{
+    flex: 1;
+}
+.pdi img{
+    width: 100%;
+    height: 400px;
+    object-fit:cover;
+}
+
+.cate ul{
+    display: flex;
+    list-style: none;
+}
+
+.cate ul li{
+    color: gold;
+    background-color: darkslategrey;
+    margin-right: 20px;
+    padding: 0px 60px;
+    text-decoration: none;
+}
+.cate ul li:hover{
+    background-color: rgb(46, 41, 41);
+}
+
+.cat h2{
+    text-align: center;
+    background-color: lightgray;
+}
+
+.cate ul li a{
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: gold;
+}
+
+.pp{
+    text-align: end;
+    color: gold;
+    background-color: rgb(109, 65, 150);
+    margin: 120px 450px 20px 0px;
+    padding: 1000x;
+}
+
+.ff{
+    text-align: center;
+    font-size: 3rem;
+}
+footer{
+    color: white;
+    background-color: rgb(31, 15, 78);
+    padding: 10px;
+}

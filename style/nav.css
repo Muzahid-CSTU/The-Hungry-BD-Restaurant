@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+}
+nav logo{
+    flex: 1;
+}
+nav ul{
+    flex: 6;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    padding: 0px 205px;
+}
+nav ul li{
+    margin-right: 50px;
+    padding: 0px 45px;
+}
+nav  ul li:hover{
+    background-color: lightgray;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: larger;
+}
